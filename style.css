@@ -155,7 +155,15 @@ nav li:hover{
  }
 
 footer{
+    margin-bottom: 0;
+    padding: 1em;
     background-color: rgba(166, 199, 157, 0.8);
+}
+
+div.foot{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    text-align: center;
 }
 
 /*Fix index content for IE11*/
